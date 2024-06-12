@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom'
 // import {Themeprovider} from './context/theme.jsx'
 // import { Authprovider } from './context/auth.jsx'
 
-document.title = "Authentication app"
+document.title = "blog app"
 
 
 
