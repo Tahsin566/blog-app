@@ -6,7 +6,7 @@ import './App.css'
 // import { useForm } from 'react-hook-form'
 // import {useSelector,useDispatch} from 'react-redux'
 // import { increment,decrement,multiply,incrementByAmount } from './redux/counter/counterslice'
-import { Route, Routes, useNavigate, useLocation, Link } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import About from './components/about'
 
 
@@ -37,6 +37,7 @@ function App() {
       <Route element={<PrivateRoutes Component={Details} />} path='/details' /> */}
 
       <Route element={<About />} path='/' />
+      <Route element={<About />} path='/about' />
 
       
 
