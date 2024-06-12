@@ -13,7 +13,7 @@ const About = () => {
         <input style={{ padding: '8px', borderRadius: '5px', width: '100%', margin: 'auto' }} type="text" placeholder="Search here..." />
       </div>
 
-      <div style={{ marginTop: '50px', display: 'flex', alignItems: 'center',justifyContent: 'center',flexWrap: 'wrap', gap: '20px',color:'black',backgroundColor:'white',padding:'20px'}}>
+      <div style={{ marginTop: '50px', display: 'flex', alignItems: 'center',justifyContent: 'center',flexWrap: 'wrap', gap: '20px',color:'black',padding:'20px'}}>
         <div style={{ backgroundColor: 'aquamarine', width: '290px', minHeight: '400px', textAlign: 'center', marginBottom: '20px' }}>This is blog 1
           <div style={{ marginTop: '20px' }}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur nesciunt iusto recusandae dolores in molestias alias error nihil illo repellendus voluptates suscipit minima voluptate facere aspernatur excepturi neque possimus et, odio accusantium ad molestiae corporis. Rerum ipsam molestias modi blanditiis neque voluptatum, ratione, rem dicta id velit temporibus. Soluta illo veritatis in earum non!</div>
         </div>
